@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rutaArchivo
+comment0.target=QuickSort(java.lang.String)
+comment1.params=array\ start\ end
+comment1.target=void\ sorting(java.lang.String[],\ int,\ int)
+comment2.params=array\ index1\ index2
+comment2.target=void\ swap(java.lang.String[],\ int,\ int)
+comment3.params=
+comment3.target=void\ leerDatos()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
