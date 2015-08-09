@@ -1,5 +1,5 @@
 /**
- * HeapSort
+ * QuickSort
  * 
  * @author Josue Bustamante and Santiago Baena
  * @version 08/August/2015
